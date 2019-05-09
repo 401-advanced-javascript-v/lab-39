@@ -17,7 +17,7 @@
 
 ### Results && Reports
 #### Results for the XSS game:
-![xss Game](Screen Shot 2019-05-09 at 14.08.15.png)
+![xss Game](./Screen Shot 2019-05-09 at 14.08.15.png)
 
 #### Report for BWAPP:
 Don't know how to install
